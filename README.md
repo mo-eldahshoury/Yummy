@@ -1,4 +1,5 @@
 🍲 Yummy - Recipe Explorer Web App
+
 A sophisticated web application designed for exploring global recipes, focusing on efficient data fetching, seamless user experience, and structured data management.
 
 🚀 Live Links
@@ -30,6 +31,7 @@ Data Persistence: Managed structured recipe information using MySQL principles t
 Mobile-First Design: A fully responsive interface optimized for all device sizes.
 
 🏗️ Database Architecture
+
 To support advanced filtering and search efficiency, the data is structured following relational database principles:
 
 📝 Learning Outcomes
