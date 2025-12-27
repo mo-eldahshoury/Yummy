@@ -33,6 +33,9 @@ Mobile-First Design: A fully responsive interface optimized for all device sizes
 To support advanced filtering and search efficiency, the data is structured following relational database principles:
 
 📝 Learning Outcomes
+
 State Management: Mastered handling complex server states and caching mechanisms.
+
 Clean Code & OOP: Applied Object-Oriented Programming and Clean Code principles to ensure the codebase is modular and maintainable.
+
 Problem Solving: Developed efficient algorithms for real-time data filtering and UI updates
