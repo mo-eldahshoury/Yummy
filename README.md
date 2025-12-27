@@ -4,6 +4,7 @@ A sophisticated web application designed for exploring global recipes, focusing 
 🚀 Live Links
 
 Live Demo: https://mo-eldahshoury.github.io/Yummy/
+
 GitHub Repository: https://github.com/mo-eldahshoury/Yummy
 
 🛠️ Tech Stack
@@ -19,9 +20,13 @@ APIs: RESTful APIs integration.
 ✨ Key Features
 
 Advanced Search & Filtering: Instant recipe filtering by Category, Area, or Ingredients.
+
 Advanced Search & Filtering: Instant recipe filtering by Category, Area, or Ingredients.
+
 Performance Optimization: Leveraged React Query to handle asynchronous data, reducing API calls and improving load times.
+
 Data Persistence: Managed structured recipe information using MySQL principles to ensure data integrity.
+
 Mobile-First Design: A fully responsive interface optimized for all device sizes.
 
 🏗️ Database Architecture
