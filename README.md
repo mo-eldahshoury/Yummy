@@ -5,9 +5,11 @@ A sophisticated web application designed for exploring global recipes, focusing 
 
 🚀 Live Links
 
-Live Demo: https://mo-eldahshoury.github.io/Yummy/
+Live Demo :
+ https://mo-eldahshoury.github.io/Yummy/
 
-GitHub Repository: https://github.com/mo-eldahshoury/Yummy
+GitHub Repository:
+ https://github.com/mo-eldahshoury/Yummy
 
 🛠️ Tech Stack
 
