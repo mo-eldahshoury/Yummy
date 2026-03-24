@@ -12,7 +12,7 @@ Live Demo :
 GitHub Repository:
  https://github.com/mo-eldahshoury/Yummy
 
-🛠️ Tech Stack 
+🛠️ Tech Stack
 
 Front-End: React.js, JavaScript (ES6+), Tailwind CSS / Bootstrap.
 
