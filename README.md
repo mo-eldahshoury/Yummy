@@ -4,7 +4,7 @@ A sophisticated web application designed for exploring global recipes, focusing 
 
 
  
-🚀 Live Links 
+🚀 Live Links
 
 Live Demo :
 
