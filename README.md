@@ -7,7 +7,7 @@ A sophisticated web application designed for exploring global recipes, focusing 
 🚀 Live Links
 
 
-Live Demo :
+Live Demo : 
 
  https://mo-eldahshoury.github.io/Yummy/
 
