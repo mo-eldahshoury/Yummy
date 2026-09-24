@@ -2,7 +2,6 @@
 
 A sophisticated web application designed for exploring global recipes, focusing on efficient data fetching, seamless user experience, and structured data management. 
 
-
 🚀 Live Links
 
 Live Demo :
